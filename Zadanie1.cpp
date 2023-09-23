@@ -15,7 +15,7 @@ char str[3] = "Foo"; str[strlen(str) - 1] = "\0"; -- pop_back()
 
 #include <iostream>
 #include <string>
-#include<algorithm>
+
 
 int main() {
     std::string str;
