@@ -1,0 +1,15 @@
+﻿  lab2.cpp
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(35,73): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(61,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(90,16): warning C4244: return: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(105,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(121,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(123,54): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(126,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(127,30): warning C4244: return: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\lab2.cpp(208,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> C:\Users\matve\source\repos\homework_sem3\LAB2\lab2\x64\Debug\lab2.exe
